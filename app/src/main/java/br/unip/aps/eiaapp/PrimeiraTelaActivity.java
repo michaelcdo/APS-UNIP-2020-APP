@@ -7,6 +7,8 @@ import android.os.Bundle;
 
 import java.util.concurrent.TimeUnit;
 
+import br.unip.aps.eiaapp.util.Util;
+
 public class PrimeiraTelaActivity extends AppCompatActivity {
     public boolean enviouPage = false;
     @Override
